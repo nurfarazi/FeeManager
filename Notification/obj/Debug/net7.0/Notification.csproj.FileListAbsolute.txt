@@ -1,0 +1,12 @@
+D:\git\test\FineManager\FeeManager\Notification\bin\Debug\net7.0\Notification.deps.json
+D:\git\test\FineManager\FeeManager\Notification\bin\Debug\net7.0\Notification.dll
+D:\git\test\FineManager\FeeManager\Notification\bin\Debug\net7.0\Notification.pdb
+D:\git\test\FineManager\FeeManager\Notification\obj\Debug\net7.0\Notification.csproj.AssemblyReference.cache
+D:\git\test\FineManager\FeeManager\Notification\obj\Debug\net7.0\Notification.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\test\FineManager\FeeManager\Notification\obj\Debug\net7.0\Notification.AssemblyInfoInputs.cache
+D:\git\test\FineManager\FeeManager\Notification\obj\Debug\net7.0\Notification.AssemblyInfo.cs
+D:\git\test\FineManager\FeeManager\Notification\obj\Debug\net7.0\Notification.csproj.CoreCompileInputs.cache
+D:\git\test\FineManager\FeeManager\Notification\obj\Debug\net7.0\Notification.dll
+D:\git\test\FineManager\FeeManager\Notification\obj\Debug\net7.0\refint\Notification.dll
+D:\git\test\FineManager\FeeManager\Notification\obj\Debug\net7.0\Notification.pdb
+D:\git\test\FineManager\FeeManager\Notification\obj\Debug\net7.0\ref\Notification.dll
