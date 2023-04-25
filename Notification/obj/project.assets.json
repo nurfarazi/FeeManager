@@ -8,26 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\farazi\\.nuget\\packages\\": {}
+    "/Users/nurfarazi/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\git\\test\\FineManager\\FeeManager\\Notification\\Notification.csproj",
+      "projectUniqueName": "/Users/nurfarazi/git/test/FeeManager/Notification/Notification.csproj",
       "projectName": "Notification",
-      "projectPath": "D:\\git\\test\\FineManager\\FeeManager\\Notification\\Notification.csproj",
-      "packagesPath": "C:\\Users\\farazi\\.nuget\\packages\\",
-      "outputPath": "D:\\git\\test\\FineManager\\FeeManager\\Notification\\obj\\",
+      "projectPath": "/Users/nurfarazi/git/test/FeeManager/Notification/Notification.csproj",
+      "packagesPath": "/Users/nurfarazi/.nuget/packages/",
+      "outputPath": "/Users/nurfarazi/git/test/FeeManager/Notification/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\farazi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/nurfarazi/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
       }
     }
   }

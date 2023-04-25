@@ -7,17 +7,17 @@ public class Service<TEntity> : IService<TEntity> where TEntity : class
 {
     protected IUnitOfWork UnitOfWork { get; private set; }
 
-    protected IGenericRepository<TEntity> Repository { get; private set; }
-    
+    private IGenericRepository<TEntity> Repository { get; set; }
+
     public Service(IGenericRepository<TEntity> repository, IUnitOfWork unitOfWork)
     {
         Repository = repository;
         UnitOfWork = unitOfWork;
     }
-    
+
     public Task<TEntity> GetByIdAsync(string id)
     {
-        throw new NotImplementedException();
+        return Repository.GetByIdAsync(id);
     }
 
     public Task<TEntity> SingleOrDefaultAsync(Expression<Func<TEntity, bool>> predict)

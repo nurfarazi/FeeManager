@@ -15,6 +15,14 @@ public class BaseApiController<TEntity> : ControllerBase where TEntity : class
     {
     }
 
+    [HttpGet]
+    public async Task<IActionResult> GetAllAsync()
+    {
+        var entities = await this.service.ListAllAsync().ConfigureAwait(false);
+
+        return Ok(entities);
+    }
+
     [HttpGet("{id}")]
     public async Task<IActionResult> GetByIdAsync(string id)
     {

@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "D:\\git\\test\\FineManager\\FeeManager\\API\\API.csproj": {}
+    "/Users/nurfarazi/git/test/FeeManager/API/API.csproj": {}
   },
   "projects": {
-    "D:\\git\\test\\FineManager\\FeeManager\\API\\API.csproj": {
+    "/Users/nurfarazi/git/test/FeeManager/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\test\\FineManager\\FeeManager\\API\\API.csproj",
+        "projectUniqueName": "/Users/nurfarazi/git/test/FeeManager/API/API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\git\\test\\FineManager\\FeeManager\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\farazi\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\test\\FineManager\\FeeManager\\API\\obj\\",
+        "projectPath": "/Users/nurfarazi/git/test/FeeManager/API/API.csproj",
+        "packagesPath": "/Users/nurfarazi/.nuget/packages/",
+        "outputPath": "/Users/nurfarazi/git/test/FeeManager/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\farazi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/nurfarazi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\git\\test\\FineManager\\FeeManager\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "D:\\git\\test\\FineManager\\FeeManager\\Infrastructure\\Infrastructure.csproj"
+              "/Users/nurfarazi/git/test/FeeManager/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/nurfarazi/git/test/FeeManager/Infrastructure/Infrastructure.csproj"
               }
             }
           }
@@ -90,28 +88,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\git\\test\\FineManager\\FeeManager\\Core\\Core.csproj": {
+    "/Users/nurfarazi/git/test/FeeManager/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\test\\FineManager\\FeeManager\\Core\\Core.csproj",
+        "projectUniqueName": "/Users/nurfarazi/git/test/FeeManager/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\git\\test\\FineManager\\FeeManager\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\farazi\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\test\\FineManager\\FeeManager\\Core\\obj\\",
+        "projectPath": "/Users/nurfarazi/git/test/FeeManager/Core/Core.csproj",
+        "packagesPath": "/Users/nurfarazi/.nuget/packages/",
+        "outputPath": "/Users/nurfarazi/git/test/FeeManager/Core/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\farazi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/nurfarazi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -151,36 +147,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\git\\test\\FineManager\\FeeManager\\Infrastructure\\Infrastructure.csproj": {
+    "/Users/nurfarazi/git/test/FeeManager/Infrastructure/Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\git\\test\\FineManager\\FeeManager\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "/Users/nurfarazi/git/test/FeeManager/Infrastructure/Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "D:\\git\\test\\FineManager\\FeeManager\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\farazi\\.nuget\\packages\\",
-        "outputPath": "D:\\git\\test\\FineManager\\FeeManager\\Infrastructure\\obj\\",
+        "projectPath": "/Users/nurfarazi/git/test/FeeManager/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/Users/nurfarazi/.nuget/packages/",
+        "outputPath": "/Users/nurfarazi/git/test/FeeManager/Infrastructure/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\farazi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/nurfarazi/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\git\\test\\FineManager\\FeeManager\\Core\\Core.csproj": {
-                "projectPath": "D:\\git\\test\\FineManager\\FeeManager\\Core\\Core.csproj"
+              "/Users/nurfarazi/git/test/FeeManager/Core/Core.csproj": {
+                "projectPath": "/Users/nurfarazi/git/test/FeeManager/Core/Core.csproj"
               }
             }
           }
@@ -194,6 +188,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -210,7 +210,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
         }
       }
     }

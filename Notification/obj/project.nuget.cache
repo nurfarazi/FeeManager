@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q4U4VVV5SlYoHDuSDWkuxAnD9nSXJ4geZyIZ8tApdXGw7IPmXLH0Ulvb8W6j0QTyFKUCXBgLQPusqS6bRBndmw==",
+  "dgSpecHash": "hJmFZsP20H91blfsA9guUl5tuqwB7s3egkLEG4XihnZYjMRkLR2JJXNwSeNw/Na3WfFWLWgTh2eFq1klhKc6WQ==",
   "success": true,
-  "projectFilePath": "D:\\git\\test\\FineManager\\FeeManager\\Notification\\Notification.csproj",
+  "projectFilePath": "/Users/nurfarazi/git/test/FeeManager/Notification/Notification.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -3,7 +3,7 @@
     "API": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "swagger",
+      "launchUrl": "api/fee",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
